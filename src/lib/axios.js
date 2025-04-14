@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const axiosInstance = axios.create({
-  baseURL: "https://chattyweb-inky.vercel.app/api",
+  baseURL: "https://chatwebb.onrender.com/api",
   withCredentials: true,
 });
